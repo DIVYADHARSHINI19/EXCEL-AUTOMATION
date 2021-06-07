@@ -1,6 +1,6 @@
 # EXCEL-AUTOMATION
 
-  If you like my project then make sure to like [star](https://github.com/DIVYADHARSHINI19/EXCEL-AUTOMATION.git) this repository.
+  If you like my project then make sure to [star](https://github.com/DIVYADHARSHINI19/EXCEL-AUTOMATION.git) this repository.
     
  
 <div align = center>
